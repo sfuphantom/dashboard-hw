@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=REF ADJ2 Pin=LED1-A
+Added Pin To Net: NetName=NetLED1 Pin=LED1-K
+Added Pin To Net: NetName=REF ADJ2 Pin=LED2-A
+Added Pin To Net: NetName=NetLED2 Pin=LED2-K
+Added Pin To Net: NetName=REF ADJ2 Pin=LED3-A
+Added Pin To Net: NetName=NetLED3 Pin=LED3-K
