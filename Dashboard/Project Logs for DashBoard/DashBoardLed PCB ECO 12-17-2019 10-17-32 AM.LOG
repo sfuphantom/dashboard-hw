@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MIBSPI1 NCS 0 Pin=J1-1
+Removed Pin From Net: NetName=MIBSPI1 CLK Pin=J1-2
+Removed Pin From Net: NetName=MIBSPI1 MOSI Pin=J1-3
+Removed Pin From Net: NetName=MIBSPI1MISO Pin=J1-4
+Removed Pin From Net: NetName=12V Pin=J1-8
+Removed Pin From Net: NetName=DAC_POWER Pin=J1-9
+Removed Pin From Net: NetName=REF ADJ2 Pin=J1-10
+Removed Pin From Net: NetName=NetJ1_5 Pin=R5-1
+Removed Pin From Net: NetName=NetJ1_6 Pin=R6-1
+Change Component Comment : Designator=J1 Old Comment=Conn New Comment=103635-9
+Change component parameters: Designator = "J1"; Footprint = "*TE_103635-9"; UniqueID = "\VJUBJCWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A28643-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.ca/product-detail/en/te-connectivity-amp-connectors/103635-9/A28643-ND/298697?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Not Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "103635-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/103635-9/TE%20Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-103635-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REF ADJ2 Pin=J1-1
+Added Pin To Net: NetName=DAC_POWER Pin=J1-2
+Added Pin To Net: NetName=12V Pin=J1-3
+Added Pin To Net: NetName=MIBSPI1MISO Pin=J1-7
+Added Pin To Net: NetName=MIBSPI1 MOSI Pin=J1-8
+Added Pin To Net: NetName=MIBSPI1 CLK Pin=J1-9
+Added Pin To Net: NetName=MIBSPI1 NCS 0 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_6 Pin=R5-1
+Added Pin To Net: NetName=NetJ1_5 Pin=R6-1
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R7-1
+Added Net: Name=NetJ1_4
