@@ -1,0 +1,29 @@
+Added Component: Designator=U9(TIVA Headers)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=U9-1
+Added Pin To Net: NetName=SSI2_FSS Pin=U9-2
+Added Pin To Net: NetName=NetU2_5 Pin=U9-3
+Added Pin To Net: NetName=NetU2_3 Pin=U9-4
+Added Pin To Net: NetName=NetU8_4 Pin=U9-5
+Added Pin To Net: NetName=NetU8_1 Pin=U9-6
+Added Pin To Net: NetName=SSI2_CLK Pin=U9-7
+Added Pin To Net: NetName=SSI0_TX Pin=U9-8
+Added Pin To Net: NetName=FLT_LED2 Pin=U9-9
+Added Pin To Net: NetName=FLT_LED3 Pin=U9-10
+Added Pin To Net: NetName=SSI1_CLK Pin=U9-21
+Added Pin To Net: NetName=SSI1_FSS Pin=U9-22
+Added Pin To Net: NetName=NetU2_4 Pin=U9-23
+Added Pin To Net: NetName=FLT_IND Pin=U9-24
+Added Pin To Net: NetName=FLT_LED1 Pin=U9-25
+Added Pin To Net: NetName=IMD_LED Pin=U9-26
+Added Pin To Net: NetName=AMS_LED Pin=U9-27
+Added Pin To Net: NetName=SSI0_CLK Pin=U9-31
+Added Pin To Net: NetName=SSI0_FSS Pin=U9-32
+Added Pin To Net: NetName=SSI0_RX Pin=U9-33
+Added Pin To Net: NetName=SSI2_RX Pin=U9-34
+Added Pin To Net: NetName=SSI2_TX Pin=U9-35
+Added Pin To Net: NetName=SSI1_RX Pin=U9-37
+Added Pin To Net: NetName=NetU5_5 Pin=U9-38
+Added Pin To Net: NetName=NetU2_2 Pin=U9-39
+Added Pin To Net: NetName=NetU9_19 Pin=U9-40
+Added Member To Class: ClassName=Headers Member=Component U9 EK-TM4C123GXL
