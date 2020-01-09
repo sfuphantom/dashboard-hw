@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=LED1_10 Pin=LED_RED2-1
+Removed Pin From Net: NetName=LED1_9 Pin=LED_RED2-2
+Removed Pin From Net: NetName=LED1_8 Pin=LED_RED2-3
+Removed Pin From Net: NetName=LED1_7 Pin=LED_RED2-4
+Removed Pin From Net: NetName=LED1_6 Pin=LED_RED2-5
+Removed Pin From Net: NetName=LED1_5 Pin=LED_RED2-6
+Removed Pin From Net: NetName=LED1_4 Pin=LED_RED2-7
+Removed Pin From Net: NetName=LED1_3 Pin=LED_RED2-8
+Removed Pin From Net: NetName=LED1_2 Pin=LED_RED2-9
+Removed Pin From Net: NetName=LED1_1 Pin=LED_RED2-10
+Added Pin To Net: NetName=LED1_1 Pin=LED_RED2-1
+Added Pin To Net: NetName=LED1_2 Pin=LED_RED2-2
+Added Pin To Net: NetName=LED1_3 Pin=LED_RED2-3
+Added Pin To Net: NetName=LED1_4 Pin=LED_RED2-4
+Added Pin To Net: NetName=LED1_5 Pin=LED_RED2-5
+Added Pin To Net: NetName=LED1_6 Pin=LED_RED2-6
+Added Pin To Net: NetName=LED1_7 Pin=LED_RED2-7
+Added Pin To Net: NetName=LED1_8 Pin=LED_RED2-8
+Added Pin To Net: NetName=LED1_9 Pin=LED_RED2-9
+Added Pin To Net: NetName=LED1_10 Pin=LED_RED2-10
+Added Member To Class: ClassName=DAC_Schematic Member=Component J1 103635-9

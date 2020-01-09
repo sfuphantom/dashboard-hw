@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MIBSPI1MISO Pin=JP1-4
+Added Pin To Net: NetName=MIBSPI1 MISO Pin=JP1-4
