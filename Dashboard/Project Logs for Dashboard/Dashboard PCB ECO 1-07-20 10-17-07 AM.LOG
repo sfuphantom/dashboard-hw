@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=DETECT_SWITCH Pin=U7-9

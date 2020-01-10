@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=D2 Pin=J2-7
+Removed Pin From Net: NetName=D2 Pin=U9-42
+Added Pin To Net: NetName=SSI1_FSS Pin=J2-7
+Added Pin To Net: NetName=SSI1_FSS Pin=U9-42
+Added Net: Name=SSI1_FSS
