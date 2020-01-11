@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=LED1_1 Pin=LED_RED2-1
+Removed Pin From Net: NetName=LED1_2 Pin=LED_RED2-2
+Removed Pin From Net: NetName=LED1_3 Pin=LED_RED2-3
+Removed Pin From Net: NetName=LED1_4 Pin=LED_RED2-4
+Removed Pin From Net: NetName=LED1_5 Pin=LED_RED2-5
+Removed Pin From Net: NetName=LED1_6 Pin=LED_RED2-6
+Removed Pin From Net: NetName=LED1_7 Pin=LED_RED2-7
+Removed Pin From Net: NetName=LED1_8 Pin=LED_RED2-8
+Removed Pin From Net: NetName=LED1_9 Pin=LED_RED2-9
+Removed Pin From Net: NetName=LED1_10 Pin=LED_RED2-10
+Removed Pin From Net: NetName=12V Pin=LED_RED2-11
+Removed Pin From Net: NetName=12V Pin=LED_RED2-12
+Removed Pin From Net: NetName=12V Pin=LED_RED2-13
+Removed Pin From Net: NetName=12V Pin=LED_RED2-14
+Removed Pin From Net: NetName=12V Pin=LED_RED2-15
+Removed Pin From Net: NetName=12V Pin=LED_RED2-16
+Removed Pin From Net: NetName=12V Pin=LED_RED2-17
+Removed Pin From Net: NetName=12V Pin=LED_RED2-18
+Removed Pin From Net: NetName=12V Pin=LED_RED2-19
+Removed Pin From Net: NetName=12V Pin=LED_RED2-20
+Added Component: Designator=LED_RED1(DIP20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "PDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/697477.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/697477.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/239/S_110_LTA-1000HR-369780.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/239/S_110_LTA-1000HR-369780.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.onlinecomponents.com/productFiles/mf-LI/2s_110_lta-1000hr.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.onlinecomponents.com/productFiles/mf-LI/2s_110_lta-1000hr.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "10.16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "623nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "25.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Tinted,Diffused,Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTA-1000HR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-35°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.4, 10=1.138, 100=0.7, 500=0.595, 1000=0.49, 2500=0.4655, 5000=0.455, 10000=0.4445 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "21663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1066-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.2mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED1_1 Pin=LED_RED1-1
+Added Pin To Net: NetName=LED1_2 Pin=LED_RED1-2
+Added Pin To Net: NetName=LED1_3 Pin=LED_RED1-3
+Added Pin To Net: NetName=LED1_4 Pin=LED_RED1-4
+Added Pin To Net: NetName=LED1_5 Pin=LED_RED1-5
+Added Pin To Net: NetName=LED1_6 Pin=LED_RED1-6
+Added Pin To Net: NetName=LED1_7 Pin=LED_RED1-7
+Added Pin To Net: NetName=LED1_8 Pin=LED_RED1-8
+Added Pin To Net: NetName=LED1_9 Pin=LED_RED1-9
+Added Pin To Net: NetName=LED1_10 Pin=LED_RED1-10
+Added Pin To Net: NetName=12V Pin=LED_RED1-11
+Added Pin To Net: NetName=12V Pin=LED_RED1-12
+Added Pin To Net: NetName=12V Pin=LED_RED1-13
+Added Pin To Net: NetName=12V Pin=LED_RED1-14
+Added Pin To Net: NetName=12V Pin=LED_RED1-15
+Added Pin To Net: NetName=12V Pin=LED_RED1-16
+Added Pin To Net: NetName=12V Pin=LED_RED1-17
+Added Pin To Net: NetName=12V Pin=LED_RED1-18
+Added Pin To Net: NetName=12V Pin=LED_RED1-19
+Added Pin To Net: NetName=12V Pin=LED_RED1-20
+Added Member To Class: ClassName=SecondSheet Member=Component LED_RED1 RED
