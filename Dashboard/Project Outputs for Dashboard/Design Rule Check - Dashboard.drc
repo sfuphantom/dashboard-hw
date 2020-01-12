@@ -1,138 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Faraz\Documents\SFU\Team Phantom\dashboard-hw\Dashboard\Dashboard.PcbDoc
-Date     : 1/10/20
-Time     : 1:06:36 AM
-
-WARNING: Zero hole size multi-layer pad(s) detected
-   Pad J3-5(94.4mm,190mm) on Multi-Layer on Net GND
-   Pad J3-4(97.4mm,190mm) on Multi-Layer on Net CAN_L1
-   Pad J3-1(106.45mm,190mm) on Multi-Layer on Net 12V
-   Pad J3-3(100.425mm,190mm) on Multi-Layer on Net CAN_H1
-   Pad J3-2(103.425mm,190mm) on Multi-Layer on Net 5V
-   Pad J2-5(190mm,106mm) on Multi-Layer on Net 5V
-   Pad J2-2(190mm,97mm) on Multi-Layer on Net FLT_IND
-   Pad J2-1(190mm,94mm) on Multi-Layer on Net 12V
-   Pad J2-4(190mm,103mm) on Multi-Layer on Net AMS_LED
-   Pad J2-3(190mm,100mm) on Multi-Layer on Net IMD_LED
-   Pad J2-8(185.37mm,100mm) on Multi-Layer on Net SSI1_RX
-   Pad J2-9(185.37mm,103mm) on Multi-Layer on Net SSI1_TX
-   Pad J2-6(185.37mm,94mm) on Multi-Layer on Net SSI1_CLK
-   Pad J2-7(185.37mm,97mm) on Multi-Layer on Net SSI1_FSS
-   Pad J2-10(185.37mm,106mm) on Multi-Layer on Net GND
-   Pad J1-5(10mm,93mm) on Multi-Layer on Net 5V
-   Pad J1-2(10mm,102mm) on Multi-Layer on Net FLT_LED1
-   Pad J1-1(10mm,105mm) on Multi-Layer on Net 12V
-   Pad J1-4(10mm,96mm) on Multi-Layer on Net FLT_LED3
-   Pad J1-3(10mm,99mm) on Multi-Layer on Net FLT_LED2
-   Pad J1-8(14.63mm,99mm) on Multi-Layer on Net SSI2_RX
-   Pad J1-9(14.63mm,96mm) on Multi-Layer on Net SSI2_TX
-   Pad J1-6(14.63mm,105mm) on Multi-Layer on Net SSI2_CLK
-   Pad J1-7(14.63mm,102mm) on Multi-Layer on Net SSI2_FSS
-   Pad J1-10(14.63mm,93mm) on Multi-Layer on Net GND
-   Pad U7-7(167.4mm,30mm) on Multi-Layer on Net SSI0_TX
-   Pad U7-6(166.3mm,30mm) on Multi-Layer on Net GND
-   Pad U7-5(165.2mm,30mm) on Multi-Layer on Net SSI0_CLK
-   Pad U7-2(161.9mm,30mm) on Multi-Layer on Net SSI0_FSS
-   Pad U7-3(163mm,30mm) on Multi-Layer on Net SSI0_RX
-   Pad U7-4(164.1mm,30mm) on Multi-Layer on Net 3.3V
-   Pad U7-9(169.6mm,30mm) on Multi-Layer on Net DETECT_SWITCH
-   Pad U4-1(95.38mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U4-2(97.92mm,131.36mm) on Multi-Layer on Net 2_e
-   Pad U4-3(100.46mm,131.36mm) on Multi-Layer on Net 2_d
-   Pad U4-4(103mm,131.36mm) on Multi-Layer on Net 2_c
-   Pad U4-5(105.54mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U4-6(105.54mm,172mm) on Multi-Layer on Net 2_b
-   Pad U4-7(103mm,172mm) on Multi-Layer on Net 2_a
-   Pad U4-9(97.92mm,172mm) on Multi-Layer on Net 2_f
-   Pad U4-10(95.38mm,172mm) on Multi-Layer on Net 2_g
-   Pad U3-1(40.84mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U3-2(43.38mm,131.36mm) on Multi-Layer on Net 1_e
-   Pad U3-3(45.92mm,131.36mm) on Multi-Layer on Net 1_d
-   Pad U3-4(48.46mm,131.36mm) on Multi-Layer on Net 1_c
-   Pad U3-5(51mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U3-6(51mm,172mm) on Multi-Layer on Net 1_b
-   Pad U3-7(48.46mm,172mm) on Multi-Layer on Net 1_a
-   Pad U3-9(43.38mm,172mm) on Multi-Layer on Net 1_f
-   Pad U3-10(40.84mm,172mm) on Multi-Layer on Net 1_g
-   Pad U6-1(150mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U6-2(152.54mm,131.36mm) on Multi-Layer on Net 3_e
-   Pad U6-3(155.08mm,131.36mm) on Multi-Layer on Net 3_d
-   Pad U6-4(157.62mm,131.36mm) on Multi-Layer on Net 3_c
-   Pad U6-5(160.16mm,131.36mm) on Multi-Layer on Net 5V
-   Pad U6-6(160.16mm,172mm) on Multi-Layer on Net 3_b
-   Pad U6-7(157.62mm,172mm) on Multi-Layer on Net 3_a
-   Pad U6-9(152.54mm,172mm) on Multi-Layer on Net 3_f
-   Pad U6-10(150mm,172mm) on Multi-Layer on Net 3_g
-
-WARNING: Multilayer Pads with 0 size Hole found
-   Pad J3-5(94.4mm,190mm) on Multi-Layer
-   Pad J3-4(97.4mm,190mm) on Multi-Layer
-   Pad J3-1(106.45mm,190mm) on Multi-Layer
-   Pad J3-3(100.425mm,190mm) on Multi-Layer
-   Pad J3-2(103.425mm,190mm) on Multi-Layer
-   Pad J2-5(190mm,106mm) on Multi-Layer
-   Pad J2-2(190mm,97mm) on Multi-Layer
-   Pad J2-1(190mm,94mm) on Multi-Layer
-   Pad J2-4(190mm,103mm) on Multi-Layer
-   Pad J2-3(190mm,100mm) on Multi-Layer
-   Pad J2-8(185.37mm,100mm) on Multi-Layer
-   Pad J2-9(185.37mm,103mm) on Multi-Layer
-   Pad J2-6(185.37mm,94mm) on Multi-Layer
-   Pad J2-7(185.37mm,97mm) on Multi-Layer
-   Pad J2-10(185.37mm,106mm) on Multi-Layer
-   Pad J1-5(10mm,93mm) on Multi-Layer
-   Pad J1-2(10mm,102mm) on Multi-Layer
-   Pad J1-1(10mm,105mm) on Multi-Layer
-   Pad J1-4(10mm,96mm) on Multi-Layer
-   Pad J1-3(10mm,99mm) on Multi-Layer
-   Pad J1-8(14.63mm,99mm) on Multi-Layer
-   Pad J1-9(14.63mm,96mm) on Multi-Layer
-   Pad J1-6(14.63mm,105mm) on Multi-Layer
-   Pad J1-7(14.63mm,102mm) on Multi-Layer
-   Pad J1-10(14.63mm,93mm) on Multi-Layer
-   Pad U7-10(170.975mm,41mm) on Multi-Layer
-   Pad U7-10(170.975mm,32mm) on Multi-Layer
-   Pad U7-7(167.4mm,30mm) on Multi-Layer
-   Pad U7-6(166.3mm,30mm) on Multi-Layer
-   Pad U7-5(165.2mm,30mm) on Multi-Layer
-   Pad U7-8(168.5mm,30mm) on Multi-Layer
-   Pad U7-1(160.8mm,30mm) on Multi-Layer
-   Pad U7-2(161.9mm,30mm) on Multi-Layer
-   Pad U7-3(163mm,30mm) on Multi-Layer
-   Pad U7-4(164.1mm,30mm) on Multi-Layer
-   Pad U7-9(169.6mm,30mm) on Multi-Layer
-   Pad U7-10(154.825mm,32mm) on Multi-Layer
-   Pad U7-10(154.825mm,41mm) on Multi-Layer
-   Pad U4-1(95.38mm,131.36mm) on Multi-Layer
-   Pad U4-2(97.92mm,131.36mm) on Multi-Layer
-   Pad U4-3(100.46mm,131.36mm) on Multi-Layer
-   Pad U4-4(103mm,131.36mm) on Multi-Layer
-   Pad U4-5(105.54mm,131.36mm) on Multi-Layer
-   Pad U4-6(105.54mm,172mm) on Multi-Layer
-   Pad U4-7(103mm,172mm) on Multi-Layer
-   Pad U4-8(100.46mm,172mm) on Multi-Layer
-   Pad U4-9(97.92mm,172mm) on Multi-Layer
-   Pad U4-10(95.38mm,172mm) on Multi-Layer
-   Pad U3-1(40.84mm,131.36mm) on Multi-Layer
-   Pad U3-2(43.38mm,131.36mm) on Multi-Layer
-   Pad U3-3(45.92mm,131.36mm) on Multi-Layer
-   Pad U3-4(48.46mm,131.36mm) on Multi-Layer
-   Pad U3-5(51mm,131.36mm) on Multi-Layer
-   Pad U3-6(51mm,172mm) on Multi-Layer
-   Pad U3-7(48.46mm,172mm) on Multi-Layer
-   Pad U3-8(45.92mm,172mm) on Multi-Layer
-   Pad U3-9(43.38mm,172mm) on Multi-Layer
-   Pad U3-10(40.84mm,172mm) on Multi-Layer
-   Pad U6-1(150mm,131.36mm) on Multi-Layer
-   Pad U6-2(152.54mm,131.36mm) on Multi-Layer
-   Pad U6-3(155.08mm,131.36mm) on Multi-Layer
-   Pad U6-4(157.62mm,131.36mm) on Multi-Layer
-   Pad U6-5(160.16mm,131.36mm) on Multi-Layer
-   Pad U6-6(160.16mm,172mm) on Multi-Layer
-   Pad U6-7(157.62mm,172mm) on Multi-Layer
-   Pad U6-8(155.08mm,172mm) on Multi-Layer
-   Pad U6-9(152.54mm,172mm) on Multi-Layer
-   Pad U6-10(150mm,172mm) on Multi-Layer
+Date     : 1/11/20
+Time     : 5:43:47 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -167,7 +36,7 @@ Rule Violations :0
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
@@ -176,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
