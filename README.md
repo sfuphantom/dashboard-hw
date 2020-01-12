@@ -7,7 +7,7 @@
 ## Components
 
  * __7 Segment Displays__
-	* [U3] 7-Seg Position 1 (Left)
+	* [U3] 7-Seg Position 1 (Left)...
 	Datasheet: 
 	* [U4] 7-Seg Position 2 (Middle)
 	* [U6] 7-Seg Position 3 (Right)
