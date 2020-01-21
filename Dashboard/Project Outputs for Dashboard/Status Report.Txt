@@ -1,26 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Dashboard.PrjPcb]
-   Generated File[Dashboard.GTO]
-   Generated File[Dashboard.GTP]
-   Generated File[Dashboard.GTS]
-   Generated File[Dashboard.GTL]
-   Generated File[Dashboard.GBL]
-   Generated File[Dashboard.GBS]
-   Generated File[Dashboard.GBP]
-   Generated File[Dashboard.GBO]
-   Generated File[Dashboard.GM1]
-   Generated File[Dashboard.GM13]
-   Generated File[Dashboard.GM15]
-   Generated File[Dashboard.GKO]
-   Generated File[Dashboard.GPT]
-   Generated File[Dashboard.GPB]
-   Generated File[Dashboard.RUL]
-   Generated File[Dashboard.EXTREP]
-   Generated File[Dashboard.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Dashboard.PrjPcb]
+   Generated File[Dashboard-Plated.TXT]
+   Generated File[Dashboard.DRL]
+   Generated File[Dashboard.LDP]
+   Generated File[Dashboard.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 6:25:36 PM On 1/11/20
+Finished Output Generation At 1:41:30 AM On 1/21/20

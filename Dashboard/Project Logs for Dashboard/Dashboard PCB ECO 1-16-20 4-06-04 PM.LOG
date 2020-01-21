@@ -1,0 +1,81 @@
+Change Component Description : Designator=R24 Old Description=Metal film resistor 120 ? SMD 0603 0.1 W New Description=Metal film resistor 120 ? SMD 0603 0.1 W
+Added Component: Designator=U9(TIVA Headers)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=U9-1
+Added Pin To Net: NetName=SSI2_FSS Pin=U9-2
+Added Pin To Net: NetName=A2 Pin=U9-3
+Added Pin To Net: NetName=B2 Pin=U9-4
+Added Pin To Net: NetName=CAN0_RX Pin=U9-5
+Added Pin To Net: NetName=CAN0_TX Pin=U9-6
+Added Pin To Net: NetName=SSI2_CLK Pin=U9-7
+Added Pin To Net: NetName=SSI0_TX Pin=U9-8
+Added Pin To Net: NetName=FLT_LED2 Pin=U9-9
+Added Pin To Net: NetName=FLT_LED3 Pin=U9-10
+Added Pin To Net: NetName=GND Pin=U9-21
+Added Pin To Net: NetName=C2 Pin=U9-22
+Added Pin To Net: NetName=A3 Pin=U9-23
+Added Pin To Net: NetName=SSI1_RX Pin=U9-24
+Added Pin To Net: NetName=SSI2_TX Pin=U9-26
+Added Pin To Net: NetName=SSI2_RX Pin=U9-27
+Added Pin To Net: NetName=SSI0_RX Pin=U9-28
+Added Pin To Net: NetName=SSI0_FSS Pin=U9-29
+Added Pin To Net: NetName=SSI0_CLK Pin=U9-30
+Added Pin To Net: NetName=5V Pin=U9-31
+Added Pin To Net: NetName=GND Pin=U9-32
+Added Pin To Net: NetName=A1 Pin=U9-33
+Added Pin To Net: NetName=B1 Pin=U9-34
+Added Pin To Net: NetName=C1 Pin=U9-35
+Added Pin To Net: NetName=D1 Pin=U9-36
+Added Pin To Net: NetName=B3 Pin=U9-37
+Added Pin To Net: NetName=C3 Pin=U9-38
+Added Pin To Net: NetName=D3 Pin=U9-39
+Added Pin To Net: NetName=SSI1_TX Pin=U9-40
+Added Pin To Net: NetName=SSI1_CLK Pin=U9-41
+Added Pin To Net: NetName=SSI1_FSS Pin=U9-42
+Added Pin To Net: NetName=D2 Pin=U9-43
+Added Pin To Net: NetName=FLT_IND Pin=U9-44
+Added Pin To Net: NetName=FLT_LED1 Pin=U9-45
+Added Pin To Net: NetName=IMD_LED Pin=U9-46
+Added Pin To Net: NetName=AMS_LED Pin=U9-47
+Added Pin To Net: NetName=DETECT_SWITCH Pin=U9-50
+Added Member To Class: ClassName=CANTransceiver Member=Component C1 100nF
+Added Member To Class: ClassName=Headers Member=Component J1 WM3255CT-ND
+Added Member To Class: ClassName=Headers Member=Component J2 WM3255CT-ND
+Added Member To Class: ClassName=Headers Member=Component J3 23-0436500509CT-ND
+Added Member To Class: ClassName=CANTransceiver Member=Component JP1 61300311121
+Added Member To Class: ClassName=CANTransceiver Member=Component JP2 61300211121
+Added Member To Class: ClassName=CANTransceiver Member=Component JP3 61300211121
+Added Member To Class: ClassName=7SegDisplay Member=Component R1 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R2 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R3 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R4 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R5 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R6 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R7 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R8 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R9 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R10 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R11 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R12 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R13 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R14 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R15 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R16 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R17 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R18 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R19 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R20 200Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component R21 200Ohm
+Added Member To Class: ClassName=CANTransceiver Member=Component R22 0Ohm
+Added Member To Class: ClassName=CANTransceiver Member=Component R23 0Ohm
+Added Member To Class: ClassName=CANTransceiver Member=Component R24 120 Ohm
+Added Member To Class: ClassName=CANTransceiver Member=Component R25 62 Ohm
+Added Member To Class: ClassName=7SegDisplay Member=Component U1 7 Seg BCD
+Added Member To Class: ClassName=7SegDisplay Member=Component U2 7 Seg BCD
+Added Member To Class: ClassName=7SegDisplay Member=Component U3 754-2271-ND
+Added Member To Class: ClassName=7SegDisplay Member=Component U4 754-2271-ND
+Added Member To Class: ClassName=7SegDisplay Member=Component U5 7 Seg BCD
+Added Member To Class: ClassName=7SegDisplay Member=Component U6 754-2271-ND
+Added Member To Class: ClassName=Headers Member=Component U7 2073-MEM2075-00-140-01-ACT-ND
+Added Member To Class: ClassName=CANTransceiver Member=Component U8 MCP2561FD-E/SN
+Added Member To Class: ClassName=Headers Member=Component U9 EK-TM4C123GXL
