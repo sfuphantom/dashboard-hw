@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DashBoardLed.PcbDoc   2020-02-02  2:00:30 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DashBoardLed.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             33        PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      35mil (0.89mm)                                            Round             10        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             60        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)           +4mil (0.1mm)                     Round             5         PTH        0.00inch (0.00mm)
+T6      165mil (4.2mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              116
+
+Total Processing Time (hh:mm:ss) : 00:00:00
