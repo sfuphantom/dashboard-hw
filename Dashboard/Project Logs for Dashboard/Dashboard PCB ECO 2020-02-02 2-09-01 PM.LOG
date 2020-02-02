@@ -1,0 +1,14 @@
+Change Component Description : Designator=R24 Old Description=Metal film resistor 120 ? SMD 0603 0.1 W New Description=Metal film resistor 120 ? SMD 0603 0.1 W
+Added Pin To Net: NetName=Latch1 Pin=U1-1
+Added Net: Name=Latch1
+Added Pin To Net: NetName=Latch2 Pin=U2-1
+Added Net: Name=Latch2
+Added Pin To Net: NetName=Latch3 Pin=U5-1
+Added Net: Name=Latch3
+Added Pin To Net: NetName=Phase1 Pin=U1-6
+Added Net: Name=Phase1
+Added Pin To Net: NetName=Phase2 Pin=U2-6
+Added Net: Name=Phase2
+Added Pin To Net: NetName=Phase3 Pin=U5-6
+Added Net: Name=Phase3
+Added Member To Class: ClassName=CANTransceiver Member=Component R22 0Ohm

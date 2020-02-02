@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Faraz\Documents\SFU\Team Phantom\dashboard-hw\Dashboard\Dashboard.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Jarod\Documents\PhantomGithub\dashboard-hw\Dashboard\Dashboard.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

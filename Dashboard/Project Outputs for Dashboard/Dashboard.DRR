@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Dashboard.PcbDoc   2/01/20  5:17:12 PM
+NCDrill File Report For: Dashboard.PcbDoc   2020-02-02  2:16:06 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,13 +9,14 @@ EIA File   : Dashboard.DRL
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      20mil (0.5mm)           +/-2mil (0.05mm)                  Round             61        PTH        0.00inch (0.00mm)
-T2      28mil (0.7mm)           +/-0mil (0mm)                     Round             30        PTH        0.00inch (0.00mm)
-T3      37mil (0.95mm)          +/-2mil (0.05mm)                  Round             2         PTH        0.00inch (0.00mm)
-T4      40mil (1.02mm)          +/-2mil (0.05mm)                  Round             40        PTH        0.00inch (0.00mm)
-T5      43mil (1.1mm)           +/-2mil (0.05mm)                  Round             7         PTH        0.00inch (0.00mm)
-T6      95mil (2.41mm)          +/-2mil (0.05mm)                  Round             6         PTH        0.00inch (0.00mm)
-T7      157mil (4mm)            +/-2mil (0.05mm)                  Round             4         PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)           +/-0mil (0mm)                     Round             30        PTH        0.00inch (0.00mm)
+T4      37mil (0.95mm)          +/-2mil (0.05mm)                  Round             2         PTH        0.00inch (0.00mm)
+T5      40mil (1.02mm)          +/-2mil (0.05mm)                  Round             40        PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)           +/-2mil (0.05mm)                  Round             7         PTH        0.00inch (0.00mm)
+T7      95mil (2.41mm)          +/-2mil (0.05mm)                  Round             6         PTH        0.00inch (0.00mm)
+T8      157mil (4mm)            +/-2mil (0.05mm)                  Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              150
+Totals                                                                              162
 
 Total Processing Time (hh:mm:ss) : 00:00:00
