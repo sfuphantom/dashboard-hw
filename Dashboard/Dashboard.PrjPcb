@@ -279,10 +279,14 @@ DocumentPath=Project Outputs for Dashboard\Dashboard.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Dashboard\Dashboard.xls
+DocumentPath=Project Outputs for Dashboard\Dashboard.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for Dashboard\Dashboard.xls
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Dashboard\Design Rule Check - Dashboard.html
 DItemRevisionGUID=
 
@@ -554,7 +558,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=

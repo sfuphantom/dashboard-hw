@@ -2,10 +2,63 @@
 FileName = Dashboard.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : Dashboard.GKO
+Generating : Bottom Overlay
+      File : Dashboard.GBO
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Dashboard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Dashboard.GM2
+
+    Adding Layer      : Board Outline
 
     Adding Layer      : Mechanical 1
 
@@ -62,208 +115,6 @@ Used DCodes :
     D53
     D54
     D55
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Dashboard.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D13
-    D14
-    D15
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Dashboard.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Dashboard.GM15
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Dashboard.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Dashboard.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Dashboard.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Dashboard.GM13
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Dashboard.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D28
-    D29
-    D30
 *************************************************************
 
 *************************************************************
@@ -337,6 +188,55 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 15
+      File : Dashboard.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Dashboard.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
 Generating : Bottom Pad Master
       File : Dashboard.GPB
 
@@ -373,10 +273,110 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : Dashboard.GM2
+Generating : Mechanical 1
+      File : Dashboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Dashboard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Dashboard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Dashboard.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Dashboard.GM13
+
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 1
 

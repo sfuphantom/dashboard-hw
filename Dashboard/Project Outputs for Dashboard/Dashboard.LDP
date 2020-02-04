@@ -1,2 +1,2 @@
 Layer Pairs Export File for PCB: C:\Users\Jarod\Documents\PhantomGithub\dashboard-hw\Dashboard\Dashboard.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dashboard-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dashboard.txt|DrillLayers=gtl,gbl
