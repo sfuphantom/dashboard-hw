@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=SecondSheet Member=U1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Member To Class: ClassName=SecondSheet Member=Component U4 LM3914VX/NOPB
