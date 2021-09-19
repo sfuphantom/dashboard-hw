@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BUZZER Pin=J1-4
+Removed Pin From Net: NetName=BUZZER- Pin=J1-5
+Removed Pin From Net: NetName=BMS_FLT Pin=J1-6
+Removed Pin From Net: NetName=IMD_FLT Pin=J1-7
+Added Component: Designator=*(RECEp)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IMD_FLT Pin=J1-4
+Added Pin To Net: NetName=BUZZER Pin=J1-5
+Added Pin To Net: NetName=BUZZER- Pin=J1-6
+Added Pin To Net: NetName=BMS_FLT Pin=J1-7
+Added Member To Class: ClassName=Connector Member=Component * Hercules Launchpad

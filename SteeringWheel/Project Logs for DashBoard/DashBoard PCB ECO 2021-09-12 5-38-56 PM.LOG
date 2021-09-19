@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=B Pin=U1-36
+Removed Pin From Net: NetName=A Pin=U1-37
+Removed Pin From Net: NetName=D Pin=U1-40
+Added Component: Designator=*(RECEp)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A Pin=U1-36
+Added Pin To Net: NetName=D Pin=U1-37
+Added Pin To Net: NetName=B Pin=U1-40
+Added Member To Class: ClassName=Connector Member=Component * Hercules Launchpad
